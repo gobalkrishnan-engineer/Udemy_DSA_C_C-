@@ -40,12 +40,12 @@
 
 31. - [ ] Online C and C++ compiler
 32. - [ ] Setup CodeBlocks and Settings 
-33. - [_] Setup Dev-C++ and Settings
+33. - [ ] Setup Dev-C++ and Settings
 34. - [ ] Debugging using Dev-C++
-35. Debugging using CodeBlocks
-36. Setup Visual studio
-37. Debugging using Visual Studio
-38. Setup Xcode
+35. - [ ] Debugging using CodeBlocks
+36. - [ ] Setup Visual studio
+37. - [ ] Debugging using Visual Studio
+38. - [ ] Setup Xcode
 
 ## Section 4 - Introduction 
 
@@ -185,4 +185,25 @@
 157. - [ ] Menu Driven Program for Matrices using Functions
 158. - [ ] How to Write C++ Classes for All Matrices 
 * Matrices
+
+## Section 10 - Sparse Matrix and Polynomial Representation
+
+159. - [ ] Sparse Matrix Representation
+160. - [ ] Addition of Sparse Matrices
+161. - [ ] Array Representation of Sparse Matrix
+162. - [ ] code - Create Sparse Matrix
+163. - [ ] Program for Adding Sparse Matrix
+164. - [ ] code - Add Sparse Matrix
+165. - [ ] code - Sparse Matrix using C++  I 
+166. - [ ] code - Sparse Matrix using C++  II
+167. - [ ] Polynomial Representation
+168. - [ ] Polynomial Evaluation
+169. - [ ] Polynomial Addition
+170. - [ ] code - Polynomial
+
+## Section 11 - Linked List
+
+171. - [ ] Why we need Dynamic Data Structure Linked List
+172. - [ ] About Linked List 
+
      
