@@ -353,3 +353,20 @@
 
 :zap: Binary Trees   
 
+## Section 16 - Binary Search Trees
+
+300. - [ ] BST intro
+301. - [ ] Searching in a Binary Search Tree
+302. - [ ] Inserting in a Binary Search Tree
+303. - [ ] Recursive Insert in Binary Search Tree
+304. - [ ] Creating a Binary Search Tree
+305. - [ ] code - Binary Search Tree
+306. - [ ] Deleting from Binary Search Tree
+307. - [ ] code - Recursive Insert and Delete on BST
+308. - [ ] Generating BST from Preorder
+309. - [ ] Program for Generating BST from Preorder
+310. - [ ] Drawbacks of Binary Search Tree
+
+:zap: Binary Search Trees
+
+
