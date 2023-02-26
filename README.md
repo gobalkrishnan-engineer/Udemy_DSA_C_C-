@@ -259,7 +259,41 @@
 224. - [ ] Comparison of Linked List
 225. - [ ] Comparison of Array with Linked List
 226. - [ ] Student Challenge : Finding Middle Element of a Linked List.
-227. - [ ] Student Challenge : Finding Intersecting point of Two Linked List.
-:zap: Linked List
+227. - [ ] Student Challenge : Finding Intersecting point of Two Linked List. 
+
+:zap: - [ ] Linked List
+
+## Section 12 - Sparse Matrix and Polynomial using Linked List
+
+228. - [ ] Student Challenge : Sparse Matrix using Linked List
+229. - [ ] Student Challenge : Polynomial Representation using Linked List
+230. - [ ] code - Polynomial
+
+## Section 13 - Stack 
+
+231. - [ ] Introduction to Stack
+232. - [ ] Stack using Array
+233. - [ ] Implementation as Stack Using Array
+234. - [ ] code - Stack using Array
+235. - [ ] Stack using Linked List
+236. - [ ] Stack Operations using Linked List
+237. - [ ] code - Stack using Linked List
+238. - [ ] code - C++ class for Stack using Linked List
+239. - [ ] Parenthesis Matching
+240. - [ ] Program for Parenthesis Matching
+241. - [ ] code - Parenthesis Matching
+242. - [ ] More on Parenthesis Matching
+243. - [ ] Infix to Postfix Conversion
+244. - [ ] Associativity and Unary Operations
+245. - [ ] Infix to Postfix using Stack Method 1 
+246. - [ ] Infix to Postfix using Stack Method 2
+247. - [ ] Program for Infix to Postfix Conversion
+248. - [ ] code - Infix to Postfix Conversion
+249. - [ ] Student Challenge: Infix to Postfix with Associativity and Parenthesis
+250. - [ ] Evaluation of Postfix Expression
+251. - [ ] Program for Evaluation of Postfix
+252. - [ ] code - Evaluation of Postfix
+
+:zap: - [ ] Stack
 
      
