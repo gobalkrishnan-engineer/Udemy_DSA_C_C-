@@ -205,5 +205,61 @@
 
 171. - [ ] Why we need Dynamic Data Structure Linked List
 172. - [ ] About Linked List 
+173. - [ ] More About Linked List
+174. - [ ] Display Linked List
+175. - [ ] code -  Display for Linked List
+176. - [ ] Recursive Display of Linked List
+177. - [ ] code -  Recursive Display for Linked List
+178. - [ ] Counting Nodes in a Linked List 
+179. - [ ] Sum of All Elements in a Linked List 
+180. - [ ] code - Count and Sum
+181. - [ ] Maximum Element in a Linked List
+182. - [ ] code - Max for Linked List
+183. - [ ] Searching in a Linked List
+184. - [ ] Improve Searching in Linked List
+185. - [ ] code - Searching in Linked List
+186. - [ ] Inserting in a Linked List
+187. - [ ] code - Insert for Linked List
+188. - [ ] Creating a Linked List using insert
+189. - [ ] Creating a Linked List by inserting at Last
+190. - [ ] Inserting in a Sorted Linked List
+191. - [ ] code - Insert in Sorted Linked List
+192. - [ ] Deleting from Linked List
+193. - [ ] code - Delete on Linked List
+194. - [ ] Check if a Linked List in Sorted 
+195. - [ ] code - Check if Linked List is Sorted 
+196. - [ ] Remove Duplicates from Sorted Linked List
+197. - [ ] code - Remove Duplicates from Sorted Linked List 
+198. - [ ] Reversing a Linked List
+199. - [ ] Reversing using Sliding Pointers
+200. - [ ] Recursive Reverse for Linked List
+201. - [ ] code - Reversing a Linked List
+202. - [ ] Concatenating 2 Linked List
+203. - [ ] Merging 2 Linked Lists
+204. - [ ] code - Concatenate and Merge Linked Lists
+205. - [ ] Check for LOOP in Linked List 
+206. - [ ] code - Check loop
+207. - [ ] code - C++ class for Linked List
+208. - [ ] Circular Linked List
+209. - [ ] Display Circular Linked List
+210. - [ ] code - Circular Linked List
+211. - [ ] Inserting in a Circular Linked List
+212. - [ ] code - Insert for a Circular Linked List
+213. - [ ] Deleting from Circular Linked List
+214. - [ ] code - Delete for Circular Linked List
+215. - [ ] Doubly Linked List
+216. - [ ] code - Doubly Linked List
+217. - [ ] Insert Doubly Linked List
+218. - [ ] code - Insert Doubly Linked List
+219. - [ ] Delete from Doubly Linked List
+220. - [ ] code - Delete from Doubly Linked List
+221. - [ ] Reverse a Doubly Linked List
+222. - [ ] code - Reverse for Doubly Linked List 
+223. - [ ] Circular Doubly Linked List
+224. - [ ] Comparison of Linked List
+225. - [ ] Comparison of Array with Linked List
+226. - [ ] Student Challenge : Finding Middle Element of a Linked List.
+227. - [ ] Student Challenge : Finding Intersecting point of Two Linked List.
+:zap: Linked List
 
      
