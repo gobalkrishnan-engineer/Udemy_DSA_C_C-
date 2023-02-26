@@ -369,4 +369,97 @@
 
 :zap: Binary Search Trees
 
+## Section 17 - AVL Trees 
 
+311. - [ ] Introduction to AVL Trees
+312. - [ ] Inserting in AVL with Rotations
+313. - [ ] General form of AVL Rotations
+314. - [ ] code - LL Rotation on AVL
+315. - [ ] code - LR Rotation on AVL
+316. - [ ] Generating AVL Tree
+317. - [ ] Deletion from AVL Tree with Rotations
+318. - [ ] Height Analysis of AVL Trees
+
+## Section 18 - Search Trees 
+
+319. - [ ] 2-3 Trees
+320. - [ ] 2-3-4 Trees
+321. - [ ] Red-Black Trees Introduction
+322. - [ ] Red-Black Tree creation
+323. - [ ] Red-Black Trees vs 2-3-4 Trees
+324. - [ ] Creating Red-Black Tree similar to Creating 2-3-4 Tree
+325. - [ ] Red-Black Tree Deletion Cases
+326. - [ ] Red-Black Tree Deletion Examples 
+327. - [ ] Red-Black Tree vs 2-3-4 Tree Deletion 
+
+## Section 19 - Heap
+
+328. - [ ] Introduction to Heap
+329. - [ ] Inserting in a Heap
+330. - [ ] Program to Insert in a Heap
+331. - [ ] Creating a Heap
+332. - [ ] Deleting from Heap and Heap Sort
+333. - [ ] code - Heap Sort
+334. - [ ] Heapify - Faster Method for creating Heap
+335. - [ ] Heap as Priority Queue
+
+## Section 20 - Sorting Techniques 
+
+336. - [ ] Criteria used for Analysing Sorts
+337. - [ ] Bubble Sort
+338. - [ ] code - Bubble Sort
+339. - [ ] Insertion Sort - Part I
+340. - [ ] Insertion Sort - Part II
+341. - [ ] Program for Insertion Sort
+342. - [ ] Analysis of Insertion Sort
+343. - [ ] code - Insertion Sort
+344. - [ ] Comparing Bubble and Insertion Sort
+345. - [ ] Selection Sort 
+346. - [ ] Program for Selection Sort
+347. - [ ] Analysis of Selection Sort
+348. - [ ] code - Selection Sort
+349. - [ ] Idea behind Quick Sort
+350. - [ ] Quick Sort
+351. - [ ] Analysis of Quick Sort - Part I
+352. - [ ] Analysis of Quick Sort - Part II
+353. - [ ] code - Quick Sort
+354. - [ ] Merging
+355. - [ ] Iterative Merge Sort
+356. - [ ] code - Iterative Merge Sort
+357. - [ ] Recursive Merge Sort
+358. - [ ] code - Recursive Merge Sort
+359. - [ ] Count Sort
+360. - [ ] code - Count Sort
+361. - [ ] Bin/Bucket Sort
+362. - [ ] Radix Sort
+363. - [ ] Shell Sort
+364. - [ ] code - Shell Sort 
+
+## Section 21 - Hashing Technique
+
+365. - [ ] Introduction to Hashing 
+366. - [ ] Chaining
+367. - [ ] code - Chaining 
+368. - [ ] Linear Probing
+369. - [ ] code - Linear Probing
+370. - [ ] Quadratic Probing
+371. - [ ] Double Hashing
+372. - [ ] Hash Function Ideas
+
+:zap:  Hashing
+
+
+## Section 22 - Graphs
+
+373. - [ ] Introduction to Graphs
+374. - [ ] Representation of Undirected Graph
+375. - [ ] Representation of Directed Graphs
+376. - [ ] Breadth First Search
+377. - [ ] Program for BFS
+378. - [ ] Depth First Search
+379. - [ ] Program for DFS
+380. - [ ] code - BFS & DFS
+381. - [ ] Spanning Trees
+382. - [ ] Prim's Minimum Cost Spanning Tree
+383. - [ ] Prim's Program
+384. - [ ] code - Prim's using
