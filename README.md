@@ -1,4 +1,4 @@
-# Udemy_DSA_C_C++
+# Udemy Data Structure in C & C++
 
 ## Section 1 - Before we Start
 
