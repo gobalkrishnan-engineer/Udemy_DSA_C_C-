@@ -261,7 +261,7 @@
 226. - [ ] Student Challenge : Finding Middle Element of a Linked List.
 227. - [ ] Student Challenge : Finding Intersecting point of Two Linked List. 
 
-:zap: - [ ] Linked List
+:zap: Linked List
 
 ## Section 12 - Sparse Matrix and Polynomial using Linked List
 
@@ -294,6 +294,24 @@
 251. - [ ] Program for Evaluation of Postfix
 252. - [ ] code - Evaluation of Postfix
 
-:zap: - [ ] Stack
+:zap:  Stack
 
+## Section 14 - Queues
+
+253. - [ ] Queue ADT
+254. - [ ] Queue using Single Pointer
+255. - [ ] Queue using Two Pointers
+256. - [ ] Implementing Queue using Array
+257. - [ ] code - Queue using Array
+258. - [ ] code - Queue in C++
+259. - [ ] Drawback of Queue using Array
+260. - [ ] Circular Queue
+261. - [ ] code - Circular Queue
+262. - [ ] Queue using Linked List
+263. - [ ] code - Queue using Linked List
+264. - [ ] Double Ended Queue DEQUEUE
+265. - [ ] Priority Queues
+266. - [ ] Queue using 2 Stacks
+
+:zap: Queue
      
